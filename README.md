@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+systems+that+quietly+work.;Breaking+things+to+understand+them.;Backend+Engineer+%E2%80%94+Security+Researcher.;Always+learning%2C+always+shipping." />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+systems+that+quietly+work.;Breaking+things+to+understand+them.;Backend+Engineer+%E2%80%94+Security+Researcher.;Always+learning%2C+always+shipping." />
 
 </div>
 
@@ -179,20 +179,20 @@ Areas I keep coming back to:
 <tr>
 <td width="50%">
 
-**🔹 Project Placeholder**
+**🔹 Portfolio Website**
 <br/>
-_Short description goes here._
+_This is for my personal portfolio website._
 <br/>
-`Tech Stack` · [Repo](#) · [Demo](#)
+`Tech Stack` · [Repo](https://github.com/Claritys11/ElaangPortofolio) · [Demo](https://claritys.my.id)
 
 </td>
 <td width="50%">
 
-**🔹 Project Placeholder**
+**🔹 Template Portfolio**
 <br/>
-_Short description goes here._
+_Template Portfolio for anyone._
 <br/>
-`Tech Stack` · [Repo](#) · [Demo](#)
+`Tech Stack` · [Repo](https://github.com/Claritys11/TemplatePortfolio) · [Demo](https://clarityz.my.id)
 
 </td>
 </tr>
