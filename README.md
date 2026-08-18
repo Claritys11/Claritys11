@@ -120,15 +120,21 @@ Areas I keep coming back to:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=claritys11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=94a3b8&icon_color=64748b&text_color=cbd5e1" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=claritys11&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=64748b&fire=94a3b8&currStreakLabel=cbd5e1" />
+<img height="170"
+     src="https://github-readme-stats.vercel.app/api?username=Claritys11&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"
+     alt="Elang's GitHub Stats"/>
+
+<img height="170"
+     src="https://streak-stats.demolab.com?user=Claritys11&theme=transparent&hide_border=true"
+     alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claritys11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=94a3b8&text_color=cbd5e1" />
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claritys11&layout=compact&hide_border=true&theme=transparent&langs_count=8&cache_seconds=86400"
+     alt="Top Languages"/>
 
 </div>
-
 <br/>
 
 ## 📈 Contribution Activity
