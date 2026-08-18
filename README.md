@@ -126,10 +126,6 @@ Areas I keep coming back to:
 />
 
 </div>
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claritys11&layout=compact&hide_border=true&theme=transparent&langs_count=8&cache_seconds=86400"
-     alt="Top Languages"/>
-
 </div>
 <br/>
 
