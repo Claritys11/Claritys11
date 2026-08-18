@@ -120,16 +120,12 @@ Areas I keep coming back to:
 
 <div align="center">
 
-<img height="170"
-     src="https://github-readme-stats.vercel.app/api?username=Claritys11&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"
-     alt="Elang's GitHub Stats"/>
+<img
+  src="https://streak-stats.demolab.com?user=Claritys11&theme=tokyonight&hide_border=true&background=0D1117"
+  alt="GitHub Streak"
+/>
 
-<img height="170"
-     src="https://streak-stats.demolab.com?user=Claritys11&theme=transparent&hide_border=true"
-     alt="GitHub Streak"/>
-
-<br/>
-
+</div>
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claritys11&layout=compact&hide_border=true&theme=transparent&langs_count=8&cache_seconds=86400"
      alt="Top Languages"/>
@@ -145,7 +141,7 @@ Areas I keep coming back to:
 
 </div>
 
-<br/>
+<br/>halaman
 
 <div align="center">
 
