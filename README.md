@@ -92,11 +92,11 @@ Beginner-friendly workshop material covering how websites work, Git and GitHub c
 </td>
 <td width="50%" valign="top">
 
-### 🕵️ [QuaSSo TeleVision](https://github.com/Claritys11/Chall-QuaSSo-TV-by-Elaang)
+### 🧰 [CTF Skills](https://github.com/Claritys11/ctf-skills)
 
-A steganography and digital-forensics CTF challenge created around multi-part hidden data and layered investigation.
+A reusable collection of specialized AI-assisted workflows for solving, documenting, and learning from CTF challenges across web, pwn, crypto, reverse engineering, forensics, and OSINT.
 
-`Digital Forensics` · `Steganography` · `CTF Challenge Design`
+`Cybersecurity` · `CTF` · `AI Workflows` · `Technical Writing`
 
 </td>
 </tr>
@@ -117,13 +117,17 @@ A steganography and digital-forensics CTF challenge created around multi-part hi
 
 <div align="center">
 
+[![Generate contribution snake](https://github.com/Claritys11/Claritys11/actions/workflows/snake.yml/badge.svg)](https://github.com/Claritys11/Claritys11/actions/workflows/snake.yml)
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Claritys11/Claritys11/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Claritys11/Claritys11/output/github-contribution-grid-snake.svg" />
   <img alt="Elang's GitHub contribution snake" src="https://raw.githubusercontent.com/Claritys11/Claritys11/output/github-contribution-grid-snake.svg" />
 </picture>
 
-[View my full contribution history](https://github.com/Claritys11)
+If the animation is still being generated, [view my contribution calendar directly on GitHub](https://github.com/Claritys11).
 
 </div>
 
