@@ -1,14 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Elang%20Dimas%20Syadewa&fontSize=42&fontColor=e2e8f0&fontAlignY=40&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20%7C%20Cybersecurity%20%26%20CTF&descAlignY=58&descSize=16&descColor=94a3b8" alt="Elang Dimas Syadewa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Elang%20Dimas%20Syadewa&fontSize=42&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn" alt="Elang Dimas Syadewa" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&lines=Building+useful%2C+secure+systems.;Breaking+things+to+understand+them.;Learning%2C+shipping%2C+and+sharing." alt="Typing introduction" />
+<h3>DevSecOps · Full-Stack Development · Cybersecurity & CTF</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&lines=Building+useful%2C+secure+systems.;Automating+infrastructure+with+security+in+mind.;Learning%2C+shipping%2C+and+sharing." alt="Typing introduction" />
 
 </div>
 
 ## 👋 Hi, I'm Elang
 
-I'm a Software Engineering student from Malang, Indonesia. I enjoy building full-stack products, learning how systems behave under the hood, and applying security thinking through CTFs, DevSecOps, and self-hosted infrastructure.
+I'm a student from Malang, Indonesia, focused on DevSecOps, full-stack development, cybersecurity, and CTFs. I enjoy building useful systems, automating infrastructure, and understanding how technology behaves under the hood.
 
 - 🔭 Building practical web systems for schools and communities
 - 🛡️ Learning binary exploitation, reverse engineering, and web security
@@ -92,11 +94,11 @@ Beginner-friendly workshop material covering how websites work, Git and GitHub c
 </td>
 <td width="50%" valign="top">
 
-### 🧰 [CTF Skills](https://github.com/Claritys11/ctf-skills)
+### 🔧 Current Focus
 
-A reusable collection of specialized AI-assisted workflows for solving, documenting, and learning from CTF challenges across web, pwn, crypto, reverse engineering, forensics, and OSINT.
+Building secure deployment workflows, improving observability for self-hosted services, and creating practical systems for school and community use.
 
-`Cybersecurity` · `CTF` · `AI Workflows` · `Technical Writing`
+`DevSecOps` · `Homelab` · `Security` · `Automation`
 
 </td>
 </tr>
@@ -111,15 +113,19 @@ A reusable collection of specialized AI-assisted workflows for solving, document
 | SCTF National | Top 20 |
 | Hack CTF Qualifiers 2026 | 69th / 455 teams |
 | Junior Crypt CTF 2026 | 75th internationally |
-| Wreck It 6.0 | Digital-forensics challenge author |
+| VishwaCTF 2026 (48h) | Participant |
 
 ## 🐍 Contribution Activity
 
 <div align="center">
 
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Claritys11&theme=tokyonight&hide_border=true&background=0D1117&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1" alt="Elang's GitHub contribution streak" />
+</a>
+
+<br/>
+
 [![Generate contribution snake](https://github.com/Claritys11/Claritys11/actions/workflows/snake.yml/badge.svg)](https://github.com/Claritys11/Claritys11/actions/workflows/snake.yml)
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Claritys11/Claritys11/output/github-contribution-grid-snake-dark.svg" />
