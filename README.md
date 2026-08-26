@@ -1,68 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Elang%20Dimas%20Syadewa&fontSize=42&fontColor=e2e8f0&fontAlignY=40&animation=fadeIn&desc=Future%20DevSecOps%20and%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20and%20CTF&descAlignY=58&descSize=16&descColor=94a3b8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Elang%20Dimas%20Syadewa&fontSize=42&fontColor=e2e8f0&fontAlignY=40&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20%7C%20Cybersecurity%20%26%20CTF&descAlignY=58&descSize=16&descColor=94a3b8" alt="Elang Dimas Syadewa" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+systems+that+quietly+work.;Breaking+things+to+understand+them.;Backend+Engineer+%E2%80%94+Security+Researcher.;Always+learning%2C+always+shipping." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&lines=Building+useful%2C+secure+systems.;Breaking+things+to+understand+them.;Learning%2C+shipping%2C+and+sharing." alt="Typing introduction" />
 
 </div>
 
-<br/>
+## 👋 Hi, I'm Elang
 
-## 👋 Introduction
+I'm a Software Engineering student from Malang, Indonesia. I enjoy building full-stack products, learning how systems behave under the hood, and applying security thinking through CTFs, DevSecOps, and self-hosted infrastructure.
 
-I'm **Elang**, a software engineering student from Indonesia, based somewhere between a terminal and a CTF scoreboard.
-
-I like understanding how things actually work — not just using them. That curiosity shows up in two places: building backend systems and applications that are clean and reliable, and pulling apart security challenges to see what makes them tick.
-
-<br/>
-
-## 🧭 About Me
-
-```yaml
-name: Elang Dimas Syadewa
-username: Claritys
-location: Indonesia
-role: Software Engineering Student
-focus:
-  - Backend & Full Stack Development
-  - Cybersecurity & CTF
-  - DevSecOps & Cloud
-currently:
-  - Competing in CTFs
-  - Running a homelab
-  - Studying binary exploitation & reverse engineering
-```
-
-<br/>
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Engineering**
-- Designing backend services & APIs
-- Full stack applications end-to-end
-- Automating workflows & infrastructure
-- Self-hosting on a home lab
-
-</td>
-<td width="50%" valign="top">
-
-**Security**
-- Capture The Flag competitions
-- Binary exploitation & reverse engineering
-- Web application security
-- DevSecOps practices
-
-</td>
-</tr>
-</table>
-
-<br/>
+- 🔭 Building practical web systems for schools and communities
+- 🛡️ Learning binary exploitation, reverse engineering, and web security
+- 🧪 Running a homelab with Linux, Docker, and self-hosted services
+- 🎓 Sharing beginner-friendly Git, GitHub, and JavaScript material through METIC
 
 ## 🛠️ Tech Stack
 
@@ -70,181 +21,132 @@ currently:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,cs,cpp,kotlin,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,php,bash&theme=dark" alt="TypeScript, JavaScript, Python, Java, PHP, and Bash" />
 
-**Frontend**
+**Web & Backend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,prisma&theme=dark" alt="React, Next.js, Node.js, Express, Laravel, Tailwind CSS, and Prisma" />
 
-**Backend**
+**Data, DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi&theme=dark" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&theme=dark" />
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,aws&theme=dark" />
-
-**Security Tooling**
-
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />&nbsp;
-<img src="https://img.shields.io/badge/Pwntools-0f172a?style=for-the-badge&logo=python&logoColor=94a3b8" />
-<img src="https://img.shields.io/badge/GDB-0f172a?style=for-the-badge&logo=gnu&logoColor=94a3b8" />
-<img src="https://img.shields.io/badge/Ghidra-0f172a?style=for-the-badge&logo=nsa&logoColor=94a3b8" />
-<img src="https://img.shields.io/badge/Burp%20Suite-0f172a?style=for-the-badge&logo=burpsuite&logoColor=94a3b8" />
-<img src="https://img.shields.io/badge/Wireshark-0f172a?style=for-the-badge&logo=wireshark&logoColor=94a3b8" />
-<img src="https://img.shields.io/badge/Nmap-0f172a?style=for-the-badge&logo=nmap&logoColor=94a3b8" />
-<img src="https://img.shields.io/badge/Metasploit-0f172a?style=for-the-badge&logo=metasploit&logoColor=94a3b8" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git,githubactions,linux,aws&theme=dark" alt="PostgreSQL, MySQL, Redis, Docker, Git, GitHub Actions, Linux, and AWS" />
 
 </div>
-
-<br/>
-
-## 🏗️ Interests & Architecture
-
-I care about systems that are easy to reason about — clear boundaries, predictable behavior, and infrastructure that doesn't need babysitting. That mindset carries over into security work too: most vulnerabilities come from assumptions nobody questioned.
-
-Areas I keep coming back to:
-
-- **DevSecOps** — building security into the pipeline, not bolting it on after
-- **Cloud Infrastructure** — designing for reliability and least privilege
-- **Linux & Self-Hosting** — running my own services, understanding the stack under the hood
-- **AI Automation** — using automation to remove repetitive work from both dev and security workflows
-
-<br/>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=Claritys11&theme=tokyonight&hide_border=true&background=0D1117"
-  alt="GitHub Streak"
-/>
-
-</div>
-</div>
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=claritys11&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=94a3b8&line=64748b&point=cbd5e1" />
-
-</div>
-
-<br/>halaman
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claritys11/claritys11/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/claritys11/claritys11/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/claritys11/claritys11/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<sub>Snake animation generated via GitHub Actions — see <a href="https://github.com/Platane/snk">Platane/snk</a> to set up the workflow on this repo.</sub>
-
-</div>
-
-<br/>
-
-## 🏆 Featured Achievements
-
-<div align="center">
-
-| Competition | Result |
-|:---|:---:|
-| East Java Cybersecurity Competition (JCC) CTF | 🏅 Finalist |
-| SCTF National | Top 20 |
-| FGTE0 CTF | Top 25 |
-| Hack CTF Qualifiers 2026 | 69th / 455 teams |
-| Junior Crypt CTF 2026 | 75th (International) |
-| VishwaCTF 2026 (48h) | Participant |
-| AWS Skill Builder | 📜 Certified |
-
-</div>
-
-<br/>
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🔹 Portfolio Website**
-<br/>
-_This is for my personal portfolio website._
-<br/>
-`Tech Stack` · [Repo](https://github.com/Claritys11/ElaangPortofolio) · [Demo](https://claritys.my.id)
+### 🗳️ [Pilketos E-Voting](https://github.com/Claritys11/web-pilketos)
+
+A school election platform with student voting, candidate and election management, voter tokens, audit logs, email delivery, security hardening, and production-oriented Docker deployment.
+
+`Next.js 16` · `TypeScript` · `Auth.js` · `Prisma` · `PostgreSQL`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🔹 Template Portfolio**
-<br/>
-_Template Portfolio for anyone._
-<br/>
-`Tech Stack` · [Repo](https://github.com/Claritys11/TemplatePortfolio) · [Demo](https://clarityz.my.id)
+### 🛡️ [DevSecOps Dashboard](https://github.com/Claritys11/DevSecOps-Dashboard)
+
+A self-hosted dashboard for Linux hosts, Docker containers, endpoint and SSL monitoring, alerts, role-aware access, audit logs, and secure agent-based metrics ingestion.
+
+`Next.js` · `Go` · `PostgreSQL` · `Docker` · `GitHub Actions`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🔹 Project Placeholder**
-<br/>
-_Short description goes here._
-<br/>
-`Tech Stack` · [Repo](#) · [Demo](#)
+### ♻️ [ORBIT Bioenergy Tracker](https://github.com/Claritys11/orbit-bioenergy-tracker)
+
+A competition prototype connecting school organic waste to community bioenergy through QR traceability, verification, allocation, impact reporting, role-based access, and audit trails.
+
+`Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Playwright`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🔹 Project Placeholder**
+### 💻 [Elaang Portfolio](https://github.com/Claritys11/ElaangPortofolio)
+
+A cyberpunk terminal-themed portfolio with CTF write-ups, projects, achievements, contact messages, SEO, uploads, and a private admin dashboard.
+
+`Next.js 15` · `React 19` · `Prisma` · `PostgreSQL`
+
 <br/>
-_Short description goes here._
-<br/>
-`Tech Stack` · [Repo](#) · [Demo](#)
+
+[Live site](https://claritys.my.id)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [METIC Probation Workshop](https://github.com/Claritys11/METIC-Probation-Workshop)
+
+Beginner-friendly workshop material covering how websites work, Git and GitHub collaboration, JavaScript fundamentals, troubleshooting, and Pull Request submissions.
+
+`Git` · `GitHub` · `JavaScript` · `Technical Writing`
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ [QuaSSo TeleVision](https://github.com/Claritys11/Chall-QuaSSo-TV-by-Elaang)
+
+A steganography and digital-forensics CTF challenge created around multi-part hidden data and layered investigation.
+
+`Digital Forensics` · `Steganography` · `CTF Challenge Design`
 
 </td>
 </tr>
 </table>
 
-<br/>
+## 🏆 Selected Achievements
 
-## 🗺️ Learning Roadmap
+| Competition | Result |
+|:--|:--|
+| East Java Cybersecurity Competition (JCC) CTF | Finalist — 17th |
+| FGTE0 CTF | 11th |
+| SCTF National | Top 20 |
+| Hack CTF Qualifiers 2026 | 69th / 455 teams |
+| Junior Crypt CTF 2026 | 75th internationally |
+| Wreck It 6.0 | Digital-forensics challenge author |
 
-- [ ] Deepen binary exploitation & pwn skills
-- [ ] Advanced reverse engineering with Ghidra
-- [ ] Cloud security on AWS
-- [ ] Kubernetes for self-hosted infrastructure
-- [ ] Contribute to open-source security tooling
-- [ ] Expand DevSecOps pipeline projects
-
-<br/>
-
-## 🔗 Connect With Me
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/claritys11"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=cbd5e1" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=cbd5e1" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=cbd5e1" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Claritys11/Claritys11/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Claritys11/Claritys11/output/github-contribution-grid-snake.svg" />
+  <img alt="Elang's GitHub contribution snake" src="https://raw.githubusercontent.com/Claritys11/Claritys11/output/github-contribution-grid-snake.svg" />
+</picture>
+
+[View my full contribution history](https://github.com/Claritys11)
 
 </div>
 
-<br/>
+## 🌱 Currently Learning
+
+- Advanced binary exploitation and reverse engineering
+- Cloud security and DevSecOps practices
+- Reliable deployment and observability for self-hosted systems
+- Building maintainable, secure full-stack applications
+
+## 🔗 Connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer" />
+<a href="https://github.com/Claritys11"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=cbd5e1" alt="GitHub" /></a>
+<a href="https://claritys.my.id"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=cbd5e1" alt="Portfolio" /></a>
 
-<sub>Thanks for stopping by — always open to learning something new.</sub>
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer" alt="" />
+
+<sub>Thanks for stopping by — always learning, always shipping.</sub>
 
 </div>
