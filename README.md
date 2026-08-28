@@ -78,7 +78,7 @@ A cyberpunk terminal-themed portfolio with CTF write-ups, projects, achievements
 
 <br/>
 
-[Live site](https://claritys.my.id)
+[Live site](https://clarityz.my.id)
 
 </td>
 </tr>
@@ -142,14 +142,14 @@ If the animation is still being generated, [view my contribution calendar direct
 - Advanced binary exploitation and reverse engineering
 - Cloud security and DevSecOps practices
 - Reliable deployment and observability for self-hosted systems
-- Building maintainable, secure full-stack applications
+- Building maintainable, secure full-stack web applications
 
 ## 🔗 Connect
 
 <div align="center">
 
 <a href="https://github.com/Claritys11"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=cbd5e1" alt="GitHub" /></a>
-<a href="https://claritys.my.id"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=cbd5e1" alt="Portfolio" /></a>
+<a href="https://clarityz.my.id"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=cbd5e1" alt="Portfolio" /></a>
 
 </div>
 
