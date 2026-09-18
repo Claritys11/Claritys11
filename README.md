@@ -122,7 +122,7 @@ Building secure deployment workflows, improving observability for self-hosted se
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Claritys11&theme=tokyonight&hide_border=true&background=0D1117&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1" alt="Elang's GitHub contribution streak" />
 </a>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=claritys11&theme=sakura-x)](https://git.io/streak-stats)
 <br/>
 
 [![Generate contribution snake](https://github.com/Claritys11/Claritys11/actions/workflows/snake.yml/badge.svg)](https://github.com/Claritys11/Claritys11/actions/workflows/snake.yml)
