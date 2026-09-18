@@ -124,7 +124,7 @@ Building secure deployment workflows, improving observability for self-hosted se
 </a>
 
 <br/>
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats?theme=tokyonight&hide_border=true&background=0D1117&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 <br/>
 [![Generate contribution snake](https://github.com/Claritys11/Claritys11/actions/workflows/snake.yml/badge.svg)](https://github.com/Claritys11/Claritys11/actions/workflows/snake.yml)
 
