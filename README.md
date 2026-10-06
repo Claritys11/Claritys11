@@ -78,7 +78,7 @@ A cyberpunk terminal-themed portfolio with CTF write-ups, projects, achievements
 
 <br/>
 
-[Live site](https://clarityz.my.id)
+[Live site](https://claritys.web.id)
 
 </td>
 </tr>
@@ -147,7 +147,7 @@ If the animation is still being generated, [view my contribution calendar direct
 <div align="center">
 
 <a href="https://github.com/Claritys11"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=cbd5e1" alt="GitHub" /></a>
-<a href="https://clarityz.my.id"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=cbd5e1" alt="Portfolio" /></a>
+<a href="https://claritys.web.id"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=cbd5e1" alt="Portfolio" /></a>
 
 </div>
 
