@@ -2,36 +2,45 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Elang%20Dimas%20Syadewa&fontSize=42&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn" alt="Elang Dimas Syadewa" />
 
-<h3>DevSecOps · Full-Stack Development · Cybersecurity & CTF</h3>
+<h3>Cybersecurity · System Administration · Web Development</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&lines=Building+useful%2C+secure+systems.;Automating+infrastructure+with+security+in+mind.;Learning%2C+shipping%2C+and+sharing." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&lines=Pwn+%26+Web+Exploitation+%C2%B7+CTF+player.;Breaking+binaries+to+understand+them.;Running+Linux+servers+and+a+homelab.;Building+web+apps+with+security+in+mind." alt="Typing introduction" />
 
 </div>
 
 ## 👋 Hi, I'm Elang
 
-I'm a student from Malang, Indonesia, focused on DevSecOps, full-stack development, cybersecurity, and CTFs. I enjoy building useful systems, automating infrastructure, and understanding how technology behaves under the hood.
+I'm an IT student from Malang, Indonesia, focused on cybersecurity — mainly binary exploitation and web exploitation. I like digging into how systems fail: finding vulnerabilities, analyzing how programs behave under the hood, and turning that understanding into working exploits in CTFs. Alongside security, I manage Linux servers in my homelab and build web applications, which keeps me close to the systems I'm learning to break.
 
-- 🔭 Building practical web systems for schools and communities
-- 🛡️ Learning binary exploitation, reverse engineering, and web security
+- 🛡️ Competing in CTFs, focused on pwn and web exploitation
+- 🔍 Learning reverse engineering and binary analysis
 - 🧪 Running a homelab with Linux, Docker, and self-hosted services
+- 🌐 Building secure web systems for schools and communities
 - 🎓 Sharing beginner-friendly Git, GitHub, and JavaScript material through METIC
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+**Security & Exploitation**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,php,bash&theme=dark" alt="TypeScript, JavaScript, Python, Java, PHP, and Bash" />
+<img src="https://img.shields.io/badge/Binary_Exploitation-0f172a?style=for-the-badge&logoColor=cbd5e1" alt="Binary Exploitation" />
+<img src="https://img.shields.io/badge/Web_Exploitation-0f172a?style=for-the-badge&logoColor=cbd5e1" alt="Web Exploitation" />
+<img src="https://img.shields.io/badge/Reverse_Engineering-0f172a?style=for-the-badge&logoColor=cbd5e1" alt="Reverse Engineering" />
+<img src="https://img.shields.io/badge/pwntools-0f172a?style=for-the-badge&logo=python&logoColor=cbd5e1" alt="pwntools" />
+<img src="https://img.shields.io/badge/CTF-0f172a?style=for-the-badge&logo=hackthebox&logoColor=cbd5e1" alt="CTF" />
 
-**Web & Backend**
+**Linux & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,prisma&theme=dark" alt="React, Next.js, Node.js, Express, Laravel, Tailwind CSS, and Prisma" />
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,githubactions,aws&theme=dark" alt="Linux, Bash, Docker, GitHub Actions, and AWS" />
 
-**Data, DevOps & Cloud**
+**Web Development**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git,githubactions,linux,aws&theme=dark" alt="PostgreSQL, MySQL, Redis, Docker, Git, GitHub Actions, Linux, and AWS" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,prisma,postgres,mysql,redis&theme=dark" alt="React, Next.js, Node.js, Express, Laravel, Tailwind CSS, Prisma, PostgreSQL, MySQL, and Redis" />
+
+**Languages & Tools**
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,php,git&theme=dark" alt="Python, TypeScript, JavaScript, Java, PHP, and Git" />
 
 </div>
 
@@ -41,18 +50,22 @@ I'm a student from Malang, Indonesia, focused on DevSecOps, full-stack developme
 <tr>
 <td width="50%" valign="top">
 
-### 🗳️ [Pilketos E-Voting](https://github.com/Claritys11/web-pilketos)
+### 🗳️ [E-Pilketos](https://github.com/Claritys11/web-pilketos)
 
-A school election platform with student voting, candidate and election management, voter tokens, audit logs, email delivery, security hardening, and production-oriented Docker deployment.
+A token-based e-voting system for the SMK Telkom Malang student council election, with one-time voter tokens, email delivery, a live results dashboard, and audit logs. Hardened with rate limiting, upload signature checks, and secure sessions, and self-hosted with Docker behind Cloudflare Tunnel.
 
-`Next.js 16` · `TypeScript` · `Auth.js` · `Prisma` · `PostgreSQL`
+`Next.js 16` · `Auth.js` · `Prisma` · `PostgreSQL` · `Docker`
+
+<br/>
+
+[Live site](https://pilketos.clarityz.my.id/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛡️ [DevSecOps Dashboard](https://github.com/Claritys11/DevSecOps-Dashboard)
 
-A self-hosted dashboard for Linux hosts, Docker containers, endpoint and SSL monitoring, alerts, role-aware access, audit logs, and secure agent-based metrics ingestion.
+A self-hosted monitoring dashboard for Linux hosts, Docker containers, endpoint and SSL checks, alerts, role-aware access, audit logs, and secure agent-based metrics ingestion.
 
 `Next.js` · `Go` · `PostgreSQL` · `Docker` · `GitHub Actions`
 
@@ -61,11 +74,35 @@ A self-hosted dashboard for Linux hosts, Docker containers, endpoint and SSL mon
 <tr>
 <td width="50%" valign="top">
 
-### ♻️ [ORBIT Bioenergy Tracker](https://github.com/Claritys11/orbit-bioenergy-tracker)
+### 🏠 Homelab Deployment Platform
 
-A competition prototype connecting school organic waste to community bioenergy through QR traceability, verification, allocation, impact reporting, role-based access, and audit trails.
+My self-hosted platform for running and deploying services, with Coolify and Docker managing apps, Traefik handling routing, and Cloudflare Tunnel publishing them to the internet.
 
-`Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Playwright`
+`Coolify` · `Docker` · `Traefik` · `Cloudflare Tunnel` · `systemd-nspawn` · `CachyOS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏝️ [Islet](https://github.com/Claritys11/islet)
+
+An open-source Dynamic Island–style widget for Linux Wayland desktops, built with Quickshell and QML for niri and Hyprland.
+
+`Quickshell` · `QML` · `Wayland` · `niri` · `Hyprland`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Internext
+
+A class hub for XI International at SMK Telkom Malang, with a member directory, project showcase, news, agenda, 360° gallery, live guestbook chat, and an admin CMS, deployed on Coolify.
+
+`Next.js 16` · `Prisma` · `PostgreSQL` · `GSAP` · `Coolify`
+
+<br/>
+
+[Live site](https://internext.web.id/)
 
 </td>
 <td width="50%" valign="top">
@@ -83,22 +120,13 @@ A cyberpunk terminal-themed portfolio with CTF write-ups, projects, achievements
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📚 [METIC Probation Workshop](https://github.com/Claritys11/METIC-Probation-Workshop)
-
-Beginner-friendly workshop material covering how websites work, Git and GitHub collaboration, JavaScript fundamentals, troubleshooting, and Pull Request submissions.
-
-`Git` · `GitHub` · `JavaScript` · `Technical Writing`
-
-</td>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🔧 Current Focus
 
-Building secure deployment workflows, improving observability for self-hosted services, and creating practical systems for school and community use.
+Sharpening binary and web exploitation through CTFs, getting comfortable with reverse engineering, and hardening the Linux servers and web apps I run.
 
-`DevSecOps` · `Homelab` · `Security` · `Automation`
+`Pwn` · `Web Exploitation` · `Reversing` · `Linux`
 
 </td>
 </tr>
@@ -106,14 +134,18 @@ Building secure deployment workflows, improving observability for self-hosted se
 
 ## 🏆 Selected Achievements
 
-| Competition | Result |
+| Competition / Certification | Result |
 |:--|:--|
-| East Java Cybersecurity Competition (JCC) CTF | Finalist — 17th |
-| FGTE0 CTF | 11th |
-| SCTF National | Top 20 |
-| Hack CTF Qualifiers 2026 | 69th / 455 teams |
+| CYBREAK CTF 2026 — Informatics Dept., ITS | 🥉 3rd Place |
+| Meta4Sec CTF 2026 | Finalist & Best Writeup Award |
+| Jatim Cybersecurity Competition (JCC) 2025 — KOMINFO | Finalist — 17th |
+| SCTF National 2026 — DCSC Darmajaya | Top 20 |
+| CTF FGTE 0 2026 | Top 25 |
+| HackAstra CTF Qualifiers 2026 | 69th / 455 teams |
 | Junior Crypt CTF 2026 | 75th internationally |
-| VishwaCTF 2026 (48h) | Participant |
+| Certified Cybersecurity Educator Professional (CCEP) — Red Team Leaders | Certified (2026) |
+
+More competitions and certificates are listed on my [portfolio](https://claritys.web.id/achievements).
 
 ## 🐍 Contribution Activity
 
@@ -137,10 +169,11 @@ If the animation is still being generated, [view my contribution calendar direct
 
 ## 🌱 Currently Learning
 
-- Advanced binary exploitation and reverse engineering
-- Cloud security and DevSecOps practices
-- Reliable deployment and observability for self-hosted systems
-- Building maintainable, secure full-stack web applications
+- Binary exploitation — memory corruption, ROP, and heap techniques
+- Web exploitation and common web application vulnerabilities
+- Reverse engineering and binary analysis
+- Linux administration and server hardening
+- Writing secure web applications from the ground up
 
 ## 🔗 Connect
 
@@ -155,6 +188,6 @@ If the animation is still being generated, [view my contribution calendar direct
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer" alt="" />
 
-<sub>Thanks for stopping by — always learning, always shipping.</sub>
+<sub>Thanks for stopping by — always learning how things work, and how they break.</sub>
 
 </div>
