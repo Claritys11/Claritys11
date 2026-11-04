@@ -20,9 +20,9 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=${{ github.repository_owner }}&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)&disable_animations=false
+          options: user=${{ github.repository_owner }}&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia/Jakarta&disable_animations=false
           path: profile/streak.svg
-          token: ${{ secrets.FOR_STREAK_STATUS }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit streak stats
         run: |
